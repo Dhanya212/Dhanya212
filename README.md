@@ -39,7 +39,6 @@ I'm Dhanya, based in Mangalore. With a background in software development, I'm p
 
 📧 [Email](mailto:dhanyashetty212@gmail.com)  
 🔗 [LinkedIn](https://linkedin.com/in/dhanyashetty212)  
-🐦 [Twitter](https://twitter.com/dhanyashetty212)  
 
 Feel free to reach out for collaborations, queries, or just to chat about technology!
 
