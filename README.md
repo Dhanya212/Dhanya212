@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm a dedicated Full-Stack Developer and Tech Enth
 <!-- About Me -->
 ## About Me
 
-I'm Dhanya, based in Mangalore. With a background in software development, I'm particularly interested in web technologies and data science. I enjoy tackling challenging projects that push the boundaries of what's possible with current tech.
+I'm Dhanya, based in Mangalore. With a background in software development, I'm particularly interested in web technologies and data science. I enjoy tackling challenging projects that push the boundaries of what's possible with current technology.
 
 <!-- Technologies -->
 ## Technologies & Tools
